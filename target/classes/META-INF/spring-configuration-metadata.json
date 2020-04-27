@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "gray-shunt-starter",
+      "type": "com.xingfa.gray.shunt.starter.properties.RequestHeaderProperties",
+      "sourceType": "com.xingfa.gray.shunt.starter.properties.RequestHeaderProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "gray-shunt-starter.headers",
+      "type": "org.springframework.util.MultiValueMap<java.lang.String,java.lang.String>",
+      "sourceType": "com.xingfa.gray.shunt.starter.properties.RequestHeaderProperties"
+    }
+  ],
+  "hints": []
+}

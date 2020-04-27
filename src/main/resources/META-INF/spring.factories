@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xingfa.gray.shunt.starter.config.EnableGrayShuntConfiguration
